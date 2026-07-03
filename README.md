@@ -1,0 +1,2 @@
+# sternoasishotel
+Static site: sternoasishotel
