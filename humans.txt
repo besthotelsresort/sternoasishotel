@@ -1,0 +1,9 @@
+/* TEAM */
+Hospitality: Stern Oasis Hotel team
+Concierge: 24/7
+Location: Munchen, DE
+
+/* SITE */
+Last update: 2026-07-03
+Language: English
+Standards: HTML5, CSS3, Schema.org
